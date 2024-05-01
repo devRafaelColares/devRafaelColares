@@ -1,20 +1,23 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou Rafa! 👋
 
 ## Sobre mim
-Sou um desenvolvedor web apaixonado por criar soluções inovadoras e escaláveis utilizando as mais recentes tecnologias. Tenho experiência sólida em desenvolvimento de software, especialmente nas áreas de JavaScript, TypeScript, React, Node.js e arquitetura de softwares.
+Sou um desenvolvedor web apaixonado por criar soluções inovadoras! 🚀 💼 💻 
+Atuo tanto como frontend, backend ou fullstack. Um desenvolvedor completo! 🤓
+Utilizo as mais recentes tecnologias. 🥇
+Tenho experiência sólida em desenvolvimento de software, especialmente com as stacks JavaScript, TypeScript, React, Node.js MySql...
 
 ### Principais Tecnologias e Habilidades:
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- Docker
-- MySQL
-- Arquitetura de Software
-- Programação Orientada a Objetos (POO)
-- [Adicione outras tecnologias relevantes aqui]
+- JavaScript                                - RTL (React Testing Library)
+- TypeScript                                - Jest
+- React                                     - CSS Modules
+- React Router                              - React Hooks
+- Context API                               - Redux
+- Node.js                                   - API REST
+- Docker                                    - Express.js
+- MySQL                                     - Linux
+- Arquitetura de Software                   - Programação Orientada a Objetos (POO)
 
-## Experiência Profissional
+<!--## Experiência Profissional
 [Inclua informações sobre sua experiência profissional relevante aqui, destacando projetos significativos, responsabilidades e conquistas.]
 
 ## Projetos Destacados
@@ -31,19 +34,9 @@ Sou um desenvolvedor web apaixonado por criar soluções inovadoras e escalávei
 - **Link do Repositório:** [Link para o repositório do projeto]
 
 ## Contribuições
-[Se você contribuiu para projetos de código aberto, eventos, ou comunidades, destaque-os aqui.]
+[Se você contribuiu para projetos de código aberto, eventos, ou comunidades, destaque-os aqui.] -->
 
 ## Contato
-- **LinkedIn:** [Seu perfil do LinkedIn]
-- **Email:** [Seu endereço de email]
-- **Website/Portfólio:** [Seu website ou portfólio, se aplicável]
-
-## Interesses Pessoais
-[Compartilhe interesses pessoais ou hobbies que possam ser relevantes para conectar-se com outros desenvolvedores.]
-
-## Linguagens e Ferramentas
-[Destaque outras linguagens, ferramentas ou frameworks com os quais você tem familiaridade e que possam ser relevantes para colaboradores e recrutadores.]
-
-- [Lista de linguagens e frameworks]
-- [Lista de ferramentas e tecnologias]
-
+- **LinkedIn:** https://www.linkedin.com/in/rafael-colares/
+- **Email:** rafaelcolares.dev@gmail.com
+  <!-- **Website/Portfólio:** [Seu website ou portfólio, se aplicável] -->
