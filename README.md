@@ -17,6 +17,7 @@ Tenho experiência sólida em desenvolvimento de software, especialmente com as 
 - MySQL                                     - Linux
 - Arquitetura de Software                   - Programação Orientada a Objetos (POO)
 
+
 <!--## Experiência Profissional
 [Inclua informações sobre sua experiência profissional relevante aqui, destacando projetos significativos, responsabilidades e conquistas.]
 
